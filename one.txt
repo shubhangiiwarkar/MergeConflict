@@ -6,3 +6,4 @@ file in mecf branch
 >>>}
 
 it is a sunnny day
+this is edited in mergeConflict branch 
