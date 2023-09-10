@@ -1,9 +1,14 @@
 file from main branch
-file in mecf branch
 >>>new one 
 >>>function delete(){
 >>>print("action completed");
 >>>}
-
 it is a sunnny day
 this is edited in mergeConflict branch 
+this is new file in main branch 
+this is the first file main branch in merge conflict 
+repository
+>>>>function make (){
+>>>>print("action made succeddfully ")
+>>>>}
+this is a rainy day 
